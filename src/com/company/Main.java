@@ -1,3 +1,6 @@
+package tn.esprit.gestionzoo.main;
+import tn.esprit.gestionzoo.entities.Animal;
+import tn.esprit.gestionzoo.entities.Zoo;
 package com.company;
 
 public class Main {

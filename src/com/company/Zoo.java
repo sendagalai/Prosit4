@@ -1,3 +1,5 @@
+package tn.esprit.gestionzoo.entities;
+
 package com.company;
 
 import java.util.Arrays;
